@@ -1,0 +1,8 @@
+{
+  "name": "makefun-site",
+  "version": "1.0.0",
+  "description": "make.fun's own static site generator, the reference program of site-generator-speed-01",
+  "license": "MIT",
+  "type": "module",
+  "main": "index.js"
+}

@@ -1,0 +1,15 @@
+makefun-site 1.0.0, make.fun's own reference program, as the house entry.
+
+  source    https://registry.npmjs.org/metalsmith/-/metalsmith-2.7.0.tgz
+            (the first upstream it derives from, below)
+  licence   MIT (LICENSE, NOTICE, kept beside the package)
+  tree      vendor/makefun-site/ digests to 06f7e0f70bb69948757991d6b8f0f2b33f42b1d942c08bdec2aeac09f4e1d93f
+            (server/competitions/load.ts treeSha256: the bytes the subject file names)
+  called    vendor/makefun-site/index.js, its build, on each case's input
+  derived   metalsmith 2.7.0, MIT, https://registry.npmjs.org/metalsmith/-/metalsmith-2.7.0.tgz
+            Copyright © 2021 webketje; Copyright © 2014-2021 Segment
+            marked 18.2.1, MIT, https://registry.npmjs.org/marked/-/marked-18.2.1.tgz
+            Copyright (c) 2018+, MarkedJS (https://github.com/markedjs/); Copyright (c) 2011-2018, Christopher Jeffrey (https://github.com/chjj/)
+
+vendor/makefun-site/ is make.fun's own code, not a vendored package: its LICENSE is make.fun's (MIT), and its NOTICE
+carries each upstream's licence and copyright line word for word.
